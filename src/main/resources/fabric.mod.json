@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "asiimov",
+	"version": "${version}",
+	"name": "Asiimov",
+	"description": "Colored tiles: Glazed Terracota variants made from quartz",
+	"authors": [
+		"Jesterwow"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/asiimov",
+		"issues": "https://github.com/DesertHydra/Asiimov/issues",
+		"sources": "https://github.com/DesertHydra/Asiimov"
+	},
+	"license": "MPL-2.0",
+	"icon": "assets/asiimov/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-datagen": ["deserthydra.asiimov.datagen.AsiimovDataGenerator"],
+		"main": ["deserthydra.asiimov.Asiimov"]
+	},
+	"mixins": [	],
+
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

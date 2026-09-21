@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "quartz",
+  "key": {
+    "b": "minecraft:smooth_quartz",
+    "i": "minecraft:magenta_dye"
+  },
+  "pattern": [
+    "bbb",
+    "bib",
+    "bbb"
+  ],
+  "result": {
+    "id": "asiimov:magenta_tile"
+  }
+}

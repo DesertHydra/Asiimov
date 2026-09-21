@@ -1,0 +1,20 @@
+{
+  "values": [
+    "asiimov:white_tile",
+    "asiimov:light_gray_tile",
+    "asiimov:gray_tile",
+    "asiimov:black_tile",
+    "asiimov:brown_tile",
+    "asiimov:red_tile",
+    "asiimov:orange_tile",
+    "asiimov:yellow_tile",
+    "asiimov:lime_tile",
+    "asiimov:green_tile",
+    "asiimov:cyan_tile",
+    "asiimov:light_blue_tile",
+    "asiimov:blue_tile",
+    "asiimov:purple_tile",
+    "asiimov:magenta_tile",
+    "asiimov:pink_tile"
+  ]
+}

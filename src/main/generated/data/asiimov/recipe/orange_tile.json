@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "quartz",
+  "key": {
+    "b": "minecraft:smooth_quartz",
+    "i": "minecraft:orange_dye"
+  },
+  "pattern": [
+    "bbb",
+    "bib",
+    "bbb"
+  ],
+  "result": {
+    "id": "asiimov:orange_tile"
+  }
+}
